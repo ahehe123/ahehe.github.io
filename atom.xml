@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ahehe123.github.io/ahehe.github.io/</id>
     <title>动态</title>
-    <updated>2020-04-04T06:05:14.506Z</updated>
+    <updated>2020-04-04T06:27:07.696Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ahehe123.github.io/ahehe.github.io/"/>
     <link rel="self" href="https://ahehe123.github.io/ahehe.github.io/atom.xml"/>
@@ -16,13 +16,14 @@
         <link href="https://ahehe123.github.io/ahehe.github.io/post/zhan-dian-guan-li-yuan/">
         </link>
         <updated>2020-04-04T04:33:48.000Z</updated>
-        <summary type="html"><![CDATA[<center>208947354@qq.com</center>]]></summary>
-        <content type="html"><![CDATA[<center>208947354@qq.com</center>
+        <summary type="html"><![CDATA[<center>20××××354@qq.com</center>
+必读]]></summary>
+        <content type="html"><![CDATA[<center>20××××354@qq.com</center>
+必读
 <!-- more -->
-欢迎来到动态页，你想要发动态吗<!-- Wenjuan Layer Begin -->
-<div id="idy_floatdiv" style="position:fixed;right:0;top:250px;">
-<a href="http://www.wenjuan.com/s/7RnaYfp/" target="blank"><img src="http://www.wenjuan.com/static/images/sharepic/share_pA.png" /></a>
-</div>
-<!-- Wenjuan Layer End -->]]></content>
+欢迎来到动态页，你想要发动态吗<br>
+你可以在下面填写相关信息
+<script type="text/javascript" src="http://www.wenjuan.com/iframe/5e87e03992beb522d532c846/?params=hide_mobile_icon=true"></script>
+如果有问题请联系QQ208947354]]></content>
     </entry>
 </feed>
